@@ -1,0 +1,47 @@
+texto,flujo
+"hi",-1
+"hello",-1
+"ola",-1
+"Hola",-1
+"¿Como estas?",-1
+"Ayuda",-1
+"Ayudame",-1
+"Buenos días",-1
+"Buenas tardes",-1
+"Buenas noches",-1
+"Conocer pedido",0
+"Estatus de su pedido",0
+"Conocer su fecha de entrega",0
+"fecha de entrega",0
+"seguimiento pedido",0
+"quiero conocer mi pedido",0
+"ayudame a saber mi fecha de entrega",0
+"cuando llega mi pedido",0
+"cuando llega mi producto",0
+"cuando me entregan",0
+"Mi numero de pedido es el 4234992349",1
+"Mi pedido es el 4234992349",1
+"Claro es el 4234992349",1
+"Claro 4234992349",1
+"Te lo comparto 4234992349",1
+"Aqui lo tienes 4234992349",1
+"Claro es el 9231231233",1
+"Claro 9231231233",1
+"Te lo comparto 9231231233",1
+"Consulta de pedido 9231231233",1
+"Consulta mi pedido 1234556564",1
+"Consulta pedido 1234556564",1
+"Consulta fecha de entrega mi pedido es 1234556564",1
+"Consulta fecha de entrega 1234556564",1
+"Dame el estatus de mi pedido 1234556564",1
+"Aqui lo tienes 9231231233",1
+"4234992349",1
+"9231231233",1
+"9342349999",1
+"1234556564",1
+"6576575676",1
+"Horario de tienda",2
+"Horario de tienda venta nocturna",2
+"Quiero facturar",3
+"Quiero facturar mi producto",3
+"Quiero mi factura",3

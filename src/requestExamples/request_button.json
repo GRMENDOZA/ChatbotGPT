@@ -1,0 +1,47 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "118798894506249",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "15550083527",
+                            "phone_number_id": "100739332996065"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "Gustavo Mendoza"
+                                },
+                                "wa_id": "5215534596395"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "context": {
+                                    "from": "15550083527",
+                                    "id": "wamid.HBgNNTIxNTUzNDU5NjM5NRUCABEYEjM2MzYwQkU5NDY2Q0FGNzM4MwA="
+                                },
+                                "from": "5215534596395",
+                                "id": "wamid.HBgNNTIxNTUzNDU5NjM5NRUCABIYFDNBREM3Q0YyMTU0MEY1MjhERkNBAA==",
+                                "timestamp": "1684945407",
+                                "type": "interactive",
+                                "interactive": {
+                                    "type": "list_reply",
+                                    "list_reply": {
+                                        "id": "row1",
+                                        "title": "Consulta Pedido"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

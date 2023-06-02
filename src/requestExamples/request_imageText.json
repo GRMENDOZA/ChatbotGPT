@@ -1,0 +1,42 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "118798894506249",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "15550083527",
+                            "phone_number_id": "100739332996065"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "Gustavo Mendoza"
+                                },
+                                "wa_id": "5215534596395"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "from": "5215534596395",
+                                "id": "wamid.HBgNNTIxNTUzNDU5NjM5NRUCABIYFDNBM0NBRDdEMTYxOEE5QzMxQzMwAA==",
+                                "timestamp": "1683899928",
+                                "type": "image",
+                                "image": {
+                                    "caption": "Dile que ves aquí?",
+                                    "mime_type": "image/jpeg",
+                                    "sha256": "XPYIGwdB1g+UMba9P0SAeD1mRpfr64J9UIM3/Q8YyTQ=",
+                                    "id": "177414078596474"
+                                }
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}
